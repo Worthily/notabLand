@@ -12,7 +12,6 @@
   width: 500px;
   height: 500px;
   position: absolute;
-  /* transition: all ease 1s; */
   left: 0;
   top: 0;
 }
@@ -26,16 +25,15 @@
 }
 
 .controll-right {
-  background-image: url(/img/right.png);
+  background-image: url(img/right.png);
   background-size: cover;
   width: 40px;
   height: 40px;
-  margin-right: px;
   position: absolute;
   left: 90%;
 }
 .controll-left {
-  background-image: url(/img/left.png);
+  background-image: url(img/left.png);
   background-size: cover;
   width: 40px;
   height: 40px;
